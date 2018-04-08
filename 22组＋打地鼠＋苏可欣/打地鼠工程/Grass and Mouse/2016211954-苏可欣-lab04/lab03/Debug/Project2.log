@@ -1,0 +1,37 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (EGE.vcxproj, LAB.vcxproj, Project2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+  Res.cpp
+  正在生成代码...
+c:\users\tf\desktop\m\grass and mouse\2016211954-苏可欣-lab04\lab03\main.cpp(184): warning C4715: “logOrSign”: 不是所有的控件路径都返回值
+graphics15.lib(color.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics15.lib(color.obj)”或在“C:\Users\tf\Desktop\M\Grass and Mouse\2016211954-苏可欣-lab04\lab03\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics15.lib(egecontrolbase.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics15.lib(egecontrolbase.obj)”或在“C:\Users\tf\Desktop\M\Grass and Mouse\2016211954-苏可欣-lab04\lab03\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics15.lib(egegapi.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics15.lib(egegapi.obj)”或在“C:\Users\tf\Desktop\M\Grass and Mouse\2016211954-苏可欣-lab04\lab03\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics15.lib(image.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics15.lib(image.obj)”或在“C:\Users\tf\Desktop\M\Grass and Mouse\2016211954-苏可欣-lab04\lab03\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics15.lib(adler32.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics15.lib(adler32.obj)”或在“C:\Users\tf\Desktop\M\Grass and Mouse\2016211954-苏可欣-lab04\lab03\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics15.lib(compress.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics15.lib(compress.obj)”或在“C:\Users\tf\Desktop\M\Grass and Mouse\2016211954-苏可欣-lab04\lab03\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics15.lib(crc32.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics15.lib(crc32.obj)”或在“C:\Users\tf\Desktop\M\Grass and Mouse\2016211954-苏可欣-lab04\lab03\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics15.lib(deflate.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics15.lib(deflate.obj)”或在“C:\Users\tf\Desktop\M\Grass and Mouse\2016211954-苏可欣-lab04\lab03\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics15.lib(graphics.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics15.lib(graphics.obj)”或在“C:\Users\tf\Desktop\M\Grass and Mouse\2016211954-苏可欣-lab04\lab03\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics15.lib(inffast.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics15.lib(inffast.obj)”或在“C:\Users\tf\Desktop\M\Grass and Mouse\2016211954-苏可欣-lab04\lab03\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics15.lib(inflate.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics15.lib(inflate.obj)”或在“C:\Users\tf\Desktop\M\Grass and Mouse\2016211954-苏可欣-lab04\lab03\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics15.lib(inftrees.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics15.lib(inftrees.obj)”或在“C:\Users\tf\Desktop\M\Grass and Mouse\2016211954-苏可欣-lab04\lab03\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics15.lib(logo.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics15.lib(logo.obj)”或在“C:\Users\tf\Desktop\M\Grass and Mouse\2016211954-苏可欣-lab04\lab03\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics15.lib(png.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics15.lib(png.obj)”或在“C:\Users\tf\Desktop\M\Grass and Mouse\2016211954-苏可欣-lab04\lab03\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics15.lib(pngerror.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics15.lib(pngerror.obj)”或在“C:\Users\tf\Desktop\M\Grass and Mouse\2016211954-苏可欣-lab04\lab03\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics15.lib(pngget.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics15.lib(pngget.obj)”或在“C:\Users\tf\Desktop\M\Grass and Mouse\2016211954-苏可欣-lab04\lab03\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics15.lib(pngmem.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics15.lib(pngmem.obj)”或在“C:\Users\tf\Desktop\M\Grass and Mouse\2016211954-苏可欣-lab04\lab03\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics15.lib(pngread.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics15.lib(pngread.obj)”或在“C:\Users\tf\Desktop\M\Grass and Mouse\2016211954-苏可欣-lab04\lab03\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics15.lib(pngrio.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics15.lib(pngrio.obj)”或在“C:\Users\tf\Desktop\M\Grass and Mouse\2016211954-苏可欣-lab04\lab03\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics15.lib(pngrtran.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics15.lib(pngrtran.obj)”或在“C:\Users\tf\Desktop\M\Grass and Mouse\2016211954-苏可欣-lab04\lab03\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics15.lib(pngrutil.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics15.lib(pngrutil.obj)”或在“C:\Users\tf\Desktop\M\Grass and Mouse\2016211954-苏可欣-lab04\lab03\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics15.lib(pngset.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics15.lib(pngset.obj)”或在“C:\Users\tf\Desktop\M\Grass and Mouse\2016211954-苏可欣-lab04\lab03\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics15.lib(pngtrans.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics15.lib(pngtrans.obj)”或在“C:\Users\tf\Desktop\M\Grass and Mouse\2016211954-苏可欣-lab04\lab03\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics15.lib(pngwio.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics15.lib(pngwio.obj)”或在“C:\Users\tf\Desktop\M\Grass and Mouse\2016211954-苏可欣-lab04\lab03\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics15.lib(pngwrite.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics15.lib(pngwrite.obj)”或在“C:\Users\tf\Desktop\M\Grass and Mouse\2016211954-苏可欣-lab04\lab03\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics15.lib(pngwtran.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics15.lib(pngwtran.obj)”或在“C:\Users\tf\Desktop\M\Grass and Mouse\2016211954-苏可欣-lab04\lab03\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics15.lib(pngwutil.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics15.lib(pngwutil.obj)”或在“C:\Users\tf\Desktop\M\Grass and Mouse\2016211954-苏可欣-lab04\lab03\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics15.lib(trees.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics15.lib(trees.obj)”或在“C:\Users\tf\Desktop\M\Grass and Mouse\2016211954-苏可欣-lab04\lab03\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics15.lib(uncompr.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics15.lib(uncompr.obj)”或在“C:\Users\tf\Desktop\M\Grass and Mouse\2016211954-苏可欣-lab04\lab03\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics15.lib(zutil.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics15.lib(zutil.obj)”或在“C:\Users\tf\Desktop\M\Grass and Mouse\2016211954-苏可欣-lab04\lab03\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics15.lib(random.obj) : warning LNK4099: 未找到 PDB“graphics15.pdb”(使用“graphics15.lib(random.obj)”或在“C:\Users\tf\Desktop\M\Grass and Mouse\2016211954-苏可欣-lab04\lab03\Debug\graphics15.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  Project2.vcxproj -> C:\Users\tf\Desktop\M\Grass and Mouse\2016211954-苏可欣-lab04\lab03\Debug\LAB01.exe
